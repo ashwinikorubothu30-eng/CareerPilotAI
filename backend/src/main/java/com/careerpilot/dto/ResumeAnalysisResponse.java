@@ -51,3 +51,4 @@ public class ResumeAnalysisResponse {
     public Map<String, Integer> getScoreBreakdown() { return scoreBreakdown; }
     public void setScoreBreakdown(Map<String, Integer> scoreBreakdown) { this.scoreBreakdown = scoreBreakdown; }
 }
+

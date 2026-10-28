@@ -53,3 +53,4 @@ public class ProfileController {
         return ResponseEntity.ok(profileRepository.save(profile));
     }
 }
+

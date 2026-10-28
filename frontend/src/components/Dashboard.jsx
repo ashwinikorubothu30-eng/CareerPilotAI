@@ -202,3 +202,4 @@ export default function Dashboard({ profile, setActiveTab }) {
     </div>
   );
 }
+

@@ -107,3 +107,4 @@ export async function matchJobs(userSkills = [], targetRole = '', experienceYear
   if (!res.ok) throw new Error('Failed to match jobs');
   return await res.json();
 }
+

@@ -56,3 +56,4 @@ public class InterviewRecord {
     public String getIdealAnswer() { return idealAnswer; }
     public void setIdealAnswer(String idealAnswer) { this.idealAnswer = idealAnswer; }
 }
+

@@ -4,3 +4,4 @@ set "PATH=%JAVA_HOME%\bin;C:\Windows\System32;C:\Windows\System32\WindowsPowerSh
 cd /d "%~dp0backend"
 echo Starting CareerPilotAI Spring Boot Backend on http://localhost:8080 ...
 call mvnw.cmd spring-boot:run
+

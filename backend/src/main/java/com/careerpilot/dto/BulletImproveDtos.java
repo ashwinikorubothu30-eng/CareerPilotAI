@@ -52,3 +52,4 @@ public class BulletImproveDtos {
         public void setQuantifiableMetric(String quantifiableMetric) { this.quantifiableMetric = quantifiableMetric; }
     }
 }
+

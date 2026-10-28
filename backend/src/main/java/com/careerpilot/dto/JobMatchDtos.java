@@ -82,3 +82,4 @@ public class JobMatchDtos {
         public void setRecommendation(String recommendation) { this.recommendation = recommendation; }
     }
 }
+

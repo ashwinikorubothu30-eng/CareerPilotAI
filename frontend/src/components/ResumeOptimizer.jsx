@@ -351,3 +351,4 @@ export default function ResumeOptimizer({ profile }) {
     </div>
   );
 }
+

@@ -10,3 +10,4 @@ import java.util.List;
 public interface InterviewRecordRepository extends JpaRepository<InterviewRecord, Long> {
     List<InterviewRecord> findBySessionId(Long sessionId);
 }
+

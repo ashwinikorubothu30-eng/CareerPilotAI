@@ -121,3 +121,4 @@ public class InterviewDtos {
         public void setStarMethodFeedback(String starMethodFeedback) { this.starMethodFeedback = starMethodFeedback; }
     }
 }
+

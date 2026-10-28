@@ -71,3 +71,4 @@ public class JobListing {
     public Integer getMatchScore() { return matchScore; }
     public void setMatchScore(Integer matchScore) { this.matchScore = matchScore; }
 }
+

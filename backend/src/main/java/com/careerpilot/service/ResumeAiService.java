@@ -237,3 +237,4 @@ public class ResumeAiService {
         return all;
     }
 }
+

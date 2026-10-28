@@ -10,3 +10,4 @@ public class CareerPilotApplication {
         SpringApplication.run(CareerPilotApplication.class, args);
     }
 }
+

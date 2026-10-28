@@ -11,3 +11,4 @@ public interface JobListingRepository extends JpaRepository<JobListing, Long> {
     List<JobListing> findByTitleContainingIgnoreCaseOrDescriptionContainingIgnoreCase(String title, String description);
     List<JobListing> findByExperienceLevelIgnoreCase(String experienceLevel);
 }
+

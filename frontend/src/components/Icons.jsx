@@ -98,3 +98,4 @@ export const IconChevronDown = ({ className = "w-4 h-4" }) => (
     <polyline points="6 9 12 15 18 9" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
   </svg>
 );
+

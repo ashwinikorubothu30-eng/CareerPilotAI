@@ -299,3 +299,4 @@ export default function CareerRoadmap({ profile }) {
     </div>
   );
 }
+

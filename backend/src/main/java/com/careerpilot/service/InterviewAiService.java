@@ -207,3 +207,4 @@ public class InterviewAiService {
         return "A top-tier answer starts with a crisp 1-sentence definition, details the internal architecture (data structures / protocol / lifecycles), discusses real-world edge cases and performance trade-offs, and concludes with a concise example from your past work.";
     }
 }
+
